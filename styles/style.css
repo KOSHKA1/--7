@@ -21,3 +21,22 @@ a h1{
     padding-top: 70px;
     text-decoration: none;
 }
+header{
+    position: relative;
+}
+div .image1{
+    position: absolute;
+    top: 180px;
+    left: 190px;
+}
+div .image2{
+    position: absolute;
+    bottom: 360px;
+    left: 650px;
+    
+}
+div .image3{
+    position: absolute;
+    bottom: 38%;
+    left: 64%;
+}
