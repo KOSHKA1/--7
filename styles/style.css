@@ -24,6 +24,9 @@ a h1{
 header{
     position: relative;
 }
+div{
+    margin-left: 240px;
+}
 div .image1{
     position: absolute;
     top: 180px;
@@ -31,12 +34,12 @@ div .image1{
 }
 div .image2{
     position: absolute;
-    bottom: 360px;
+    top: 90px;
     left: 650px;
     
 }
 div .image3{
     position: absolute;
-    bottom: 38%;
+    top: 180px;;
     left: 64%;
 }
